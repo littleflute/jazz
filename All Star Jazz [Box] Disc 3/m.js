@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Cherokee.mp3";		
+f[2]	= "02 Tiger Rag.mp3";		
+f[3]	= "03 Squeeze Me.mp3";		
+f[4]	= "04 I'm Coming Virginia.mp3";		
+f[5]	= "05 Rockin' Chair Blues.mp3";		
+f[6]	= "06 Billie's Blues.mp3";		
+f[7]	= "07 Everybody Loves My Baby.mp3";		
+f[8]	= "08 Overture to a Jam Session.mp3";		
+f[9]	= "09 Blowin' up a Storm.mp3";		
+f[10]	= "10 Jerry's Old Man.mp3";		
+f[11]	= "11 Ondine.mp3";		
+f[12]	= "12 Dance of the Gremlins.mp3";		

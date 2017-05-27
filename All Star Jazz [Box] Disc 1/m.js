@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 One O'Clock Jump (2).mp3";		
+f[2]	= "01 One O'Clock Jump.mp3";		
+f[3]	= "02 Happy Go Lucky Local, Pt. 1-2.mp3";		
+f[4]	= "03 Do Nothin' Till You Hear from Me.mp3";		
+f[5]	= "04 Blueberry Hill.mp3";		
+f[6]	= "05 Night and Day.mp3";		
+f[7]	= "06 Bird Feathers.mp3";		
+f[8]	= "07 Chinatown, My Chinatown.mp3";		
+f[9]	= "08 The Man I Love.mp3";		
+f[10]	= "09 Lullaby in Rhythm.mp3";		
+f[11]	= "10 What a Diff'rence a Day Makes.mp3";		
+f[12]	= "11 Singin' the Blues (Till My Daddy Comes Home).mp3";		
+f[13]	= "12 Got a Penny.mp3";		
